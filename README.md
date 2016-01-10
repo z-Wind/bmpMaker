@@ -1,0 +1,2 @@
+# bmpMaker
+make bmp image
